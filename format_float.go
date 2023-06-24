@@ -1,8 +1,8 @@
 package main
 
 /*
- Format float without any package - no stringConversion No fmt package
 
+ Format float without any package - no stringConversion No fmt package
 
 */
 
